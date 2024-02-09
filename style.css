@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+
+#kolona{
+    height: 200px;
+    
+
+}
+.prvi{
+    
+    height: 200px;
+    display: flex;
+    background-color: blue;
+}
+
+.drugi{
+   background-color:green ; 
+    height: 200px;
+}
+
+.treći{
+    background-color: aqua;
+    
+    height: 200px;
+}
+
+.četverti{
+    background-color: bisque;
+    height: 200px;
+}
+
